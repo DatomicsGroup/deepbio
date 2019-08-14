@@ -19,6 +19,10 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - **2018-09** | [pysster: classification of biological sequences by learning sequence and structure motifs with convolutional neural networks](https://academic.oup.com/bioinformatics/article/34/17/3035/4962494) | *Stefan Budach, Annalisa Marsico* | Bioinformatics
 - https://github.com/budach/pysster
 
+#### DragoNN
+- https://kundajelab.github.io/dragonn/
+- https://github.com/kundajelab/dragonn
+
 ## Publications
 ### Research Papers
 

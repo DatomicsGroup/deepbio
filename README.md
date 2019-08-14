@@ -15,11 +15,17 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ### TensorFlow
 
+#### Pysster
+- **2018-09** | pysster: classification of biological sequences by learning sequence and structure motifs with convolutional neural networks | *Stefan Budach, Annalisa Marsico* | [Bioinformatics](https://academic.oup.com/bioinformatics/article/34/17/3035/4962494)
+- https://github.com/budach/pysster
 
 ## Publications
 ### Research Papers
 
 ### Reviews and Perspectives
+#### General
 - **2015-05** | Deep Learning | *Yann LeCun, Yoshua Bengio & Geoffrey Hinton* | [Nature](https://www.nature.com/articles/nature14539)
-- **2019-01** | A primer on deep learning in genomics | *James Zou, Mikael Huss, Abubakar Abid, Pejman Mohammadi, Ali Torkamani and Amalio Telenti* | [Nature Genetics](https://www.nature.com/articles/s41588-018-0295-5)
 - **2019-01** | A guide to deep learning in healthcare | *Andre Esteva, Alexandre Robicquet, Bharath Ramsundar, Volodymyr Kuleshov, Mark DePristo, Katherine Chou, Claire Cui, Greg Corrado, Sebastian Thrun & Jeff Dean* | [Nature Medicine](https://www.nature.com/articles/s41591-018-0316-z)
+
+#### Genomics
+- **2019-01** | A primer on deep learning in genomics | *James Zou, Mikael Huss, Abubakar Abid, Pejman Mohammadi, Ali Torkamani and Amalio Telenti* | [Nature Genetics](https://www.nature.com/articles/s41588-018-0295-5)

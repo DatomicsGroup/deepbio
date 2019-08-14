@@ -6,10 +6,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 #### Selene
 - **2019-03** | Selene: a PyTorch-based deep learning library for sequence data | *Kathleen M. Chen, Evan M. Cofer, Jian Zhou & Olga G. Troyanskaya* | [Nature Methods](https://www.nature.com/articles/s41592-019-0360-8)
-
-http://selene.flatironinstitute.org
-
-https://github.com/FunctionLab/selene
+- http://selene.flatironinstitute.org
+- https://github.com/FunctionLab/selene
 
 ### Tensorflow
 

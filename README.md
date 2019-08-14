@@ -1,15 +1,19 @@
 # Deep Learning for Biomedicine
 This is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to applications of Deep Learning to biomedicine. Feel free to make a pull request to contribute to this list.
 
+## Projects
+### Kipoi: Model Zoo for Genomics
+- https://kipoi.org
+
 ## Libraries
-### Pytorch
+### PyTorch
 
 #### Selene
 - **2019-03** | Selene: a PyTorch-based deep learning library for sequence data | *Kathleen M. Chen, Evan M. Cofer, Jian Zhou & Olga G. Troyanskaya* | [Nature Methods](https://www.nature.com/articles/s41592-019-0360-8)
 - http://selene.flatironinstitute.org
 - https://github.com/FunctionLab/selene
 
-### Tensorflow
+### TensorFlow
 
 
 ## Publications

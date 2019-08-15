@@ -28,6 +28,12 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ### Reviews and Perspectives
 #### General
+| Published | Title | Authors | Link |
+| --------- | ----------- | --------- | --------- |
+| 2015-05   | Deep Learning | *Yann LeCun, Yoshua Bengio & Geoffrey Hinton* | [Nature](https://www.nature.com/articles/nature14539) |
+| 2019-01   | A guide to deep learning in healthcare | *Andre Esteva, Alexandre Robicquet, Bharath Ramsundar, Volodymyr Kuleshov, Mark DePristo, Katherine Chou, Claire Cui, Greg Corrado, Sebastian Thrun & Jeff Dean* | [Nature Medicine](https://www.nature.com/articles/s41591-018-0316-z) |
+
+
 - **2015-05** | Deep Learning | *Yann LeCun, Yoshua Bengio & Geoffrey Hinton* | [Nature](https://www.nature.com/articles/nature14539)
 - **2019-01** | A guide to deep learning in healthcare | *Andre Esteva, Alexandre Robicquet, Bharath Ramsundar, Volodymyr Kuleshov, Mark DePristo, Katherine Chou, Claire Cui, Greg Corrado, Sebastian Thrun & Jeff Dean* | [Nature Medicine](https://www.nature.com/articles/s41591-018-0316-z)
 

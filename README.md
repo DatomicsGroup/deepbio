@@ -25,6 +25,12 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## Publications
 ### Research Papers
+- **2015** | Quang, D., Chen, Y. & Xie, X. Dann: a deep learning approach for annotating the pathogenicity of genetic variants. Bioinformatics
+- **2015** | Alipanahi, B. et al. Predicting the sequence specificities of dna-and rna-binding proteins by deep learning. Nature Biotechnology
+- **2017** | Ching, T. et al. Opportunities and obstacles for deep learning in biology and medicine. Preprint at https://doi.org/10.1101/142760
+- **2017** | Angermueller, C., Lee, H. J., Reik, W. & Stegle, O. Deepcpg: accurate prediction of single-cell dna methylation states using deep learning. Genome Biology
+- **2016** | Chen, Y. et al. Gene expression inference with deep learning. Bioinformatics
+- **2017** | Koh, P. W., Pierson, E. & Kundaje, A. Denoising genome-wide histone chip-seq with convolutional neural networks. Bioinformatics
 
 ### Reviews and Perspectives
 #### General

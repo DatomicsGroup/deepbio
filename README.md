@@ -1,6 +1,9 @@
 # Deep Learning for Biomedicine
 This is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to applications of Deep Learning to biomedicine. Feel free to make a pull request to contribute to this list.
 
+## Courses
+- [Deep Learning in Genomics and Biomedicine](https://canvas.stanford.edu/courses/51037)
+
 ## Projects
 ### Kipoi: Model Zoo for Genomics
 - https://kipoi.org

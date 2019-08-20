@@ -6,7 +6,7 @@
 - **2015-07** | Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning | *Babak Alipanahi, Andrew Delong, Matthew T Weirauch & Brendan J Frey* | [Nature Biotechnology](https://www.nature.com/articles/nbt.3300)
 - **2016-02** | Gene expression inference with deep learning | *Yifei Chen, Yi Li, Rajiv Narayan, Aravind Subramanian, Xiaohui Xie* | [Bioinformatics] (https://academic.oup.com/bioinformatics/article/32/12/1832/1743989)
 - **2017-04** | DeepCpG: accurate prediction of single-cell DNA methylation states using deep learning | *Christof Angermueller, Heather J. Lee, Wolf Reik & Oliver Stegle* | [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1189-z)
-- **2017-07** | Denoising genome-wide histone ChIP-seq with convolutional neural networks | Pang Wei Koh, Emma Pierson, Anshul Kundaje | [Bioinformatics](https://academic.oup.com/bioinformatics/article/33/14/i225/3953958)
+- **2017-07** | Denoising genome-wide histone ChIP-seq with convolutional neural networks | *Pang Wei Koh, Emma Pierson, Anshul Kundaje* | [Bioinformatics](https://academic.oup.com/bioinformatics/article/33/14/i225/3953958)
 - **2018-12** | The Unreasonable Effectiveness of Convolutional Neural Networks in Population Genetic Inference | *Lex Flagel, Yaniv Brandvain, Daniel R Schrider* | [Molecular Biology and Evolution](https://academic.oup.com/mbe/article/36/2/220/5229930)
 
 ### Reviews and Perspectives

@@ -4,6 +4,9 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## Courses
 - [Deep Learning in Genomics and Biomedicine](https://canvas.stanford.edu/courses/51037)
 
+## Tutorials
+- [Interactive tutorial to build a convolutional neural network to discover DNA-binding motifs](https://colab.research.google. com/drive/17E4h5aAOioh5DiTo7MZg4hpL6Z_0FyWr)
+
 ## Projects
 ### Kipoi: Model Zoo for Genomics
 - https://kipoi.org

@@ -2,15 +2,52 @@
 ### Research Papers
 
 #### Genomics
+- **2015-01** | DEEP: a general computational framework for predicting enhancers | *Dimitrios Kleftogiannis,  Panos Kalnis,  Vladimir B. Bajic* | [Nucleic Acids Research](https://academic.oup.com/nar/article/43/1/e6/2902605)
 - **2015-03** | DANN: a deep learning approach for annotating the pathogenicity of genetic variants | *Daniel Quang, Yifei Chen, Xiaohui Xie* | [Bioinformatics](https://academic.oup.com/bioinformatics/article/31/5/761/2748191)
 - **2015-07** | Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning | *Babak Alipanahi, Andrew Delong, Matthew T Weirauch & Brendan J Frey* | [Nature Biotechnology](https://www.nature.com/articles/nbt.3300)
 - **2015-08** | Predicting effects of noncoding variants with deep learning–based sequence model | *Jian Zhou & Olga G Troyanskaya* | [Nature Methods](https://www.nature.com/articles/nmeth.3547)
+- **2016-01** | Predicting DNA Methylation State of CpG Dinucleotide Using Genome Topological Features and Deep Networks | *Yiheng Wang, Tong Liu, Dong Xu, Huidong Shi, Chaoyang Zhang, Yin-Yuan Mo & Zheng Wang* | [Scientific Reports](https://www.nature.com/articles/srep19598)
 - **2016-02** | Gene expression inference with deep learning | *Yifei Chen, Yi Li, Rajiv Narayan, Aravind Subramanian, Xiaohui Xie* | [Bioinformatics](https://academic.oup.com/bioinformatics/article/32/12/1832/1743989)
 - **2016-05** | Basset: learning the regulatory code of the accessible genome with deep convolutional neural networks | *David R. Kelley, Jasper Snoek and John L. Rinn* | [Genome Research](https://genome.cshlp.org/content/26/7/990.short)
+- **2016-06** | Convolutional neural network architectures for predicting DNA–protein binding | Haoyang Zeng, Matthew D. Edwards, Ge Liu, David K. Gifford | [Bioinformatics](https://academic.oup.com/bioinformatics/article/32/12/i121/2240609)
 - **2016-06** | DanQ: a hybrid convolutional and recurrent deep neural network for quantifying the function of DNA sequences | *Daniel Quang,  Xiaohui Xie* | [Nucleic Acids Research](https://academic.oup.com/nar/article/44/11/e107/2468300#96180312)
+- **2016-06** | PEDLA: predicting enhancers with a deep learning-based algorithmic framework | *Feng Liu, Hao Li, Chao Ren, Xiaochen Bo & Wenjie Shu* | [Scientific Reports](https://www.nature.com/articles/srep28517)
 - **2017-04** | DeepCpG: accurate prediction of single-cell DNA methylation states using deep learning | *Christof Angermueller, Heather J. Lee, Wolf Reik & Oliver Stegle* | [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1189-z)
 - **2017-07** | Denoising genome-wide histone ChIP-seq with convolutional neural networks | *Pang Wei Koh, Emma Pierson, Anshul Kundaje* | [Bioinformatics](https://academic.oup.com/bioinformatics/article/33/14/i225/3953958)
+- **2017-12** | Predicting enhancers with deep convolutional neural networks | *Xu Min, Wanwen Zeng, Shengquan Chen, Ning Chen, Ting Chen & Rui Jiang* | [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1878-3)
+- **2017** | DEEP MOTIF DASHBOARD: VISUALIZING AND UNDERSTANDING GENOMIC SEQUENCES USING DEEP NEURAL NETWORKS | *JACK LANCHANTIN, RITAMBHARA SINGH, BEILUN WANG and YANJUN QI* | [Pacific Symposium on Biocomputing 2017](https://www.worldscientific.com/doi/abs/10.1142/9789813207813_0025)
+- **2018-05** | Genome-wide prediction of cis-regulatory regions using supervised deep learning methods | *Yifeng Li, Wenqiang Shi & Wyeth W. Wasserman* | [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2187-1)
 - **2018-12** | The Unreasonable Effectiveness of Convolutional Neural Networks in Population Genetic Inference | *Lex Flagel, Yaniv Brandvain, Daniel R Schrider* | [Molecular Biology and Evolution](https://academic.oup.com/mbe/article/36/2/220/5229930)
+
+34. Tan, J., Hammond, J. H., Hogan, D. A. & Greene, C. S. ADAGE-based
+integration of publicly available Pseudomonas aeruginosa gene expression data with denoising autoencoders illuminates microbe-host interactions. mSystems 1, e00025-15 (2016).
+35. Chen, Y., Li, Y., Narayan, R., Subramanian, A. & Xie, X. Gene expression inference with deep learning. Bioinformatics 32, 1832–1839 (2016).
+36. Chen, L., Cai, C., Chen, V. & Lu, X. Learning a hierarchical representation of the yeast transcriptomic machinery using an autoencoder model. BMC Bioinformatics 17 (Suppl. 1), 9 (2016).
+37. Cui, H. et al. Boosting gene expression clustering with system-wide biological information: a robust autoencoder approach. Preprint at https://www.biorxiv. org/content/early/2017/11/05/214122 (2017).
+38. Xie, R., Wen, J., Quitadamo, A., Cheng, J. & Shi, X. A deep auto-encoder model for gene expression prediction. BMC Genomics 18 (Suppl. 9),
+845 (2017).
+39. Jha, A., Gazzara, M. R. & Barash, Y. Integrative deep models for alternative splicing. Bioinformatics 33, i274–i282 (2017).
+40. Tripathi, R., Patel, S., Kumari, V., Chakraborty, P. & Varadwaj, P. K. DeepLNC, a long non-coding RNA prediction tool using deep neural network. Netw. Model. Anal. Health Inform. Bioinform. 5, 21 (2016).
+41. Yu, N., Yu, Z. & Pan, Y. A deep learning method for lincRNA detection using auto-encoder algorithm. BMC Bioinformatics 18 (Suppl. 15), 511 (2017).
+42. Hill, S. T. et al. A deep recurrent neural network discovers complex biological rules to decipher RNA protein-coding potential. Nucleic Acids Res. 46, 8105–8113 (2018).
+43. Angermueller, C., Lee, H. J., Reik, W. & Stegle, O. DeepCpG: accurate prediction of single-cell DNA methylation states using deep learning. Genome Biol. 18, 67 (2017).
+44. Shaham, U. et al. Removal of batch effects using distribution-matching residual networks. Bioinformatics 33, 2539–2546 (2017).
+45. Lin, C., Jain, S., Kim, H. & Bar-Joseph, Z. Using neural networks for reducing the dimensions of single-cell RNA-Seq data. Nucleic Acids Res. 45, e156 (2017).
+46. Poplin, R. et al. Creating a universal SNP and small indel variant caller with deep neural networks. Preprint at https://www.biorxiv.org/content/ early/2018/03/20/092890 (2017).
+47. Luo, R., Sedlazeck, F.J., Lam, T.-W. & Schatz, M. Clairvoyante: a multi-task convolutional deep neural network for variant calling in single molecule sequencing. Preprint at https://www.biorxiv.org/content/ early/2018/09/26/310458 (2018).
+48. Luo, R., Lam, T.-W. & Schatz, M. Skyhawk: an artificial neural network-based discriminator for reviewing clinically significant genomic variants. Preprint at https://www.biorxiv.org/content/early/2018/05/01/311985 (2018).
+49. Torracinta, R. et al. Adaptive somatic mutations calls with deep learning and semi-simulated data. Preprint at https://www.biorxiv.org/content/ early/2016/10/04/079087 (2016).
+50. Boža, V., Brejová, B. & Vinař, T. DeepNano: deep recurrent neural networks for base calling in MinION nanopore reads. PLoS One 12, e0178751 (2017).
+51. Teng, H., Hall, M.B., Duarte, T., Cao, M.D. & Coin, L. Chiron: translating nanopore raw signal directly into nucleotide sequence using deep learning. Preprint at https://www.biorxiv.org/content/early/2017/08/23/179531 (2017).
+52. Qi, H. et al. MVP: predicting pathogenicity of missense variants by deep neural networks. Preprint at https://www.biorxiv.org/content/ early/2018/02/02/259390 (2018).
+53. Quang, D., Chen, Y. & Xie, X. DANN: a deep learning approach for annotating the pathogenicity of genetic variants. Bioinformatics 31, 761–763 (2015).
+54. Korvigo, I., Afanasyev, A., Romashchenko, N. & Skoblov, M. Generalising better: applying deep learning to integrate deleteriousness prediction scores for whole-exome SNV studies. PLoS One 13, e0192829 (2018).
+55. Yuan, Y. et al. DeepGene: an advanced cancer type classifier based on deep learning and somatic point mutations. BMC Bioinformatics 17, 476 (2016).
+56. Yousefi, S. et al. Predicting clinical outcomes from large scale cancer genomic profiles with deep survival models. Sci. Rep. 7, 11707 (2017).
+57. Ma, W., Qiu, Z., Song, J., Cheng, Q. & Ma, C. DeepGS: predicting phenotypes from genotypes using deep learning. Preprint at https://www.biorxiv.org/ content/early/2017/12/31/241414 (2017).
+58. Zhou, J. et al. Whole-genome deep learning analysis reveals causal role of noncoding mutations in autism. Preprint at https://www.biorxiv.org/content/ early/2018/05/11/319681 (2018).
+59. Zhou, J. et al. Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk. Nat. Genet. 50, 1171–1179 (2018).
+60. Sundaram, L. et al. Predicting the clinical impact of human mutation with deep neural networks. Nat. Genet. 50, 1161–1170 (2018).
 
 ### Reviews and Perspectives
 #### General

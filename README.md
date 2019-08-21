@@ -6,7 +6,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## Tutorials
 - [Interactive tutorial to build a convolutional neural network to discover DNA-binding motifs](https://colab.research.google.com/drive/17E4h5aAOioh5DiTo7MZg4hpL6Z_0FyWr)
-- [James Zou: "Deep learning for genomics: Introduction and examples", Computational Genomics Summer Institute, 2017](https://www.youtube.com/watch?v=JYt1IqdDAPc)
+- [James Zou: "Deep learning for genomics: Introduction and examples" (Computational Genomics Summer Institute 2017)](https://www.youtube.com/watch?v=JYt1IqdDAPc)
+- [Cory McLean: "Nucleus: TensorFlow toolkit for Genomics" (TensorFlow Dev Summit 2018)](https://www.youtube.com/watch?v=7wi9NdGh9oI)
 
 ## Projects
 ### Kipoi: Model Zoo for Genomics

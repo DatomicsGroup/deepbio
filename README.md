@@ -10,8 +10,7 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Cory McLean: "Nucleus: TensorFlow toolkit for Genomics" (TensorFlow Dev Summit 2018)](https://www.youtube.com/watch?v=7wi9NdGh9oI)
 
 ## Projects
-### Kipoi: Model Zoo for Genomics
-- https://kipoi.org
+- [Kipoi: Model Zoo for Genomics](https://kipoi.org)
 
 ## Libraries
 ### PyTorch

@@ -65,3 +65,7 @@ integration of publicly available Pseudomonas aeruginosa gene expression data wi
 - **2018-05** | Deep Learning for Genomics: A Concise Overview | *Tianwei Yue, Haohan Wang* | [Invited chapter for Springer Book: Handbook of Deep Learning Applications](https://arxiv.org/abs/1802.00810)
 - **2019-01** | A primer on deep learning in genomics | *James Zou, Mikael Huss, Abubakar Abid, Pejman Mohammadi, Ali Torkamani and Amalio Telenti* | [Nature Genetics](https://www.nature.com/articles/s41588-018-0295-5)
 - **2019-04** | Deep learning: new computational modelling techniques for genomics| *Gökcen Eraslan, Žiga Avsec, Julien Gagneur & Fabian J. Theis* | [Nature Reviews Genetics](https://www.nature.com/articles/s41576-019-0122-6)
+
+- Michael KK Leung, Andrew Delong, Babak Alipanahi, and Brendan J Frey. Machine learning
+in genomic medicine: a review of computational problems and data sets. Proceedings
+of the IEEE, 104(1):176–197, 2016.

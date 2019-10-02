@@ -4,10 +4,16 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## Courses
 - [Deep Learning in Genomics and Biomedicine](https://canvas.stanford.edu/courses/51037)
 
-## Tutorials
+## Tutorials & Presentations
 - [Interactive tutorial to build a convolutional neural network to discover DNA-binding motifs](https://colab.research.google.com/drive/17E4h5aAOioh5DiTo7MZg4hpL6Z_0FyWr)
+- [Martin Preusse, Gökcen Eraslan: "Deep modeling of DNA sequences with Python & Keras" (PyMunich 2016)](https://www.youtube.com/watch?v=0Zuqytgf6yY)
 - [James Zou: "Deep learning for genomics: Introduction and examples" (Computational Genomics Summer Institute 2017)](https://www.youtube.com/watch?v=JYt1IqdDAPc)
 - [Cory McLean: "Nucleus: TensorFlow toolkit for Genomics" (TensorFlow Dev Summit 2018)](https://www.youtube.com/watch?v=7wi9NdGh9oI)
+- [Lee Cooper: "Predicting Cancer Outcomes from Genomics and Histology with Deep Learning" (NCI Webinars 2018)](https://www.youtube.com/watch?v=X_rvcs3zEis)
+- [William Noble: "Machine learning methods for making sense of big genomic data" (Computational Genomics Winter Institute 2018)](https://www.youtube.com/watch?v=JzSf5AU9VVc)
+- [Avanti Shrikumar: "Not Just a Black Box: Interpretable Deep Learning for Genomics and Beyond" (NVIDIA GTC 2018)](https://www.youtube.com/watch?v=T8AMLwmy_vQ)
+- [Olga Troyanskaya: "The Science of Deep Learning" (National Academy of Sciences Arthur M. Sackler Colloquium 2019)](https://www.youtube.com/watch?v=94B8zGsF_JE)
+- [Peter Koo: "Interpretable convolutional networks for regulatory genomics" (Models, Inference and Algorithms Meeting 2019)](https://www.youtube.com/watch?v=nQqVxGzeYZs)
 
 ## Projects
 - [Kipoi: Model Zoo for Genomics](https://kipoi.org)

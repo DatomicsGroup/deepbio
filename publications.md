@@ -63,11 +63,8 @@ integration of publicly available Pseudomonas aeruginosa gene expression data wi
 - **2019-03** | Reinforcement learning in artificial and biological systems | *Emre O. Neftci and Bruno B. Averbeck* | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-019-0025-4.pdf?origin=ppub)
 
 #### Genomics
+- **2016-01** | Machine learning in genomic medicine: a review of computational problems and data sets | *Michael KK Leung, Andrew Delong, Babak Alipanahi, and Brendan J Frey* | [Proceedings of the IEEE](https://ieeexplore.ieee.org/abstract/document/7347331)
 - **2018-05** | Deep learning of genomic variation and regulatory network data | *Amalio Telenti, Christoph Lippert, Pi-Chuan Chang, Mark DePristo* | [Human Molecular Genetics](https://academic.oup.com/hmg/article-abstract/27/Supplement_R1/R63/4966854)
 - **2018-05** | Deep Learning for Genomics: A Concise Overview | *Tianwei Yue, Haohan Wang* | [Invited chapter for Springer Book: Handbook of Deep Learning Applications](https://arxiv.org/abs/1802.00810)
 - **2019-01** | A primer on deep learning in genomics | *James Zou, Mikael Huss, Abubakar Abid, Pejman Mohammadi, Ali Torkamani and Amalio Telenti* | [Nature Genetics](https://www.nature.com/articles/s41588-018-0295-5) | [Google Colab Notebook with tutorial](https://colab.research.google.com/drive/17E4h5aAOioh5DiTo7MZg4hpL6Z_0FyWr)
 - **2019-04** | Deep learning: new computational modelling techniques for genomics| *Gökcen Eraslan, Žiga Avsec, Julien Gagneur & Fabian J. Theis* | [Nature Reviews Genetics](https://www.nature.com/articles/s41576-019-0122-6)
-
-- Michael KK Leung, Andrew Delong, Babak Alipanahi, and Brendan J Frey. Machine learning
-in genomic medicine: a review of computational problems and data sets. Proceedings
-of the IEEE, 104(1):176–197, 2016.
